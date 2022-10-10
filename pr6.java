@@ -10,8 +10,9 @@ with default values 1.0 to denote three sides of a triangle.
  A method named toString() that returns a string description for the triangle.
 return "Triangle: side1 = " + side1 + " side2 = " + side2 + " side3 = " +
 side3.
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
  */
  import java.util.*;
 class GeometricObject {

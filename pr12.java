@@ -4,8 +4,9 @@
 to Exercise above, create a Transition class that does the same of Association class
 with three objects.
 
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
 
 */
 class hospital {
@@ -48,8 +49,8 @@ class pr12 {
     public static void main(String[] args) {
 
         // Creating objects of bank and Employee class
-        hospital bank = new hospital("janta hospital");
-        Employee emp = new Employee("kaumil patni");
+        hospital bank = new hospital("manta hospital");
+        Employee emp = new Employee("haril ankleshwariya");
         System.out.println(emp.getEmployeeName()
                 + " is employee of "
                 + bank.gethospitalName());

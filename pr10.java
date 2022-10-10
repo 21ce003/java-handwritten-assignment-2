@@ -3,8 +3,9 @@
 Comparable. Implement the compareTo method to compare the Squares on the basis
 of area. Write a test class to find the larger of two instances of
 ComparableSquareobjects.
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
  */
 class squre {
     protected double side1;

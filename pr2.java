@@ -20,8 +20,9 @@ sides, length of side, and x- and y-coordinates.
  The method getArea() that returns the area of the polygon. The formula for
 computing the area of a regular polygon is:
 
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
  */
  import java.util.*;
 

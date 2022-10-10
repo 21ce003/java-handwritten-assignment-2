@@ -5,8 +5,9 @@ representing a day’s attendance in a course and containing the names of the st
 who attended the course on that particular day, write a program that displays, in
 ascending order, the names of those students who have attended at least one day of the
 course. The text file(s) is/are passed as command-line argument(
-    name:kaumil patni
-ID:21ce108
+   name:haril ankleshwariya
+ID:21ce003
+
 */
 import java.io.File; // Import the File class
 import java.io.IOException; // Import the IOException class to handle errors

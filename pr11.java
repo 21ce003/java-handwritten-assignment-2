@@ -2,8 +2,9 @@
 /*
 Create a Triplet class that encapsulates three objects of the same data type in a given 
 instance of Triplet
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
  */
 class Triplet<T> {
     //a generic class which can hold data of type T.

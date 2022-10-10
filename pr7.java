@@ -4,8 +4,9 @@ position number of a line in the file filename or −1 if there is no such line 
 Assume that this file contains names of people with a name per line. Names (and
 hence lines) are listed in ascending alphabetical order in the file. We can not find the
 same line twice.
-name:kaumil patni
-ID:21ce108
+name:haril ankleshwariya
+ID:21ce003
+
  */
 import java.io.File;
 import java.io.FileReader;

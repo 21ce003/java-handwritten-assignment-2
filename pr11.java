@@ -34,7 +34,7 @@ class Triplet<T> {
 }
 public class pr11 {
     public static void main(String[] args) {
-        Triplet<String> triplet = new Triplet<>("Hii", "kaumil", "!");
+        Triplet<String> triplet = new Triplet<>("Hii", "HARIL", "!");
         //passing Stirng as T in which it can hold Hello World and !
         System.out.println(triplet.getObject1());
         System.out.println(triplet.getObject2());
